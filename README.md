@@ -1,43 +1,35 @@
+## 👋 About Me
 
-const pratik = {
-  Hi I'm Pratik
+<table>
+<tr>
+<td width="55%">
 
-  identity: {
-    name: "Pratik Raj",
-    role: "Full Stack Web Developer"
-  },
+```yaml id="w0h5dp"
+Name       : Pratik Raj
+Role       : Full Stack Web Developer
 
-  boot_sequence: [
-    " Loading problem solving modules...",
-    " Initializing system design...",
-    " Applying clean code principles...",
-    " System ready"
-  ],
+Focus      : Backend Development • Problem Solving • System Design
 
-  tech_stack: {
-    languages: ["Java", "JavaScript", "SQL"],
-    frontend: ["HTML", "CSS", "React"],
-    backend: ["Node.js", "Express"],
-    database: ["SQLite", "MongoDB"]
-  },
+Tech Stack :
+  - Java • JavaScript • SQL
+  - React • Node.js • Express
+  - MongoDB • SQLite
 
-  current_focus: [
-    "Data Structures & Algorithms",
-    " Backend Engineering",
-    " Scalable Architecture"
-  ],
+Learning   : Deepening backend development with a focus on scalable systems
+             while integrating GenAI into real-world applications.
 
-  system_values: ["Simplicity", "Performance", "Scalability"],
-
-  status: "Building. Learning. Improving ",
-
-  easter_egg: () => "☕ Coffee → Code → Repeat"
-};
-
-─────────────────────────────────────────────
-                WELCOME
-─────────────────────────────────────────────
 ```
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://cdn-icons-png.flaticon.com/512/1995/1995574.png" width="220"/>
+
+</td>
+</tr>
+</table>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pratik8445/Pratik8445/output/github-contribution-grid-snake.svg" />
