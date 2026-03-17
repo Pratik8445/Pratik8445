@@ -105,6 +105,16 @@ Learning   : Deepening backend development with a focus on scalable systems
   <img src="https://streak-stats.demolab.com/?user=Pratik8445&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 📈 Contribution Activity
+
+<h3 align="center">🔥 Pratik Raj's Contribution Graph</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik8445&theme=tokyo-night&hide_border=true&line=7c3aed&point=ffffff&area=true&area_color=7c3aed" />
+</p>
+
 <p align="center">
  <img src="https://raw.githubusercontent.com/Pratik8445/Pratik8445/output/github-contribution-grid-snake.svg" />
 </p>
