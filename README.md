@@ -22,10 +22,8 @@ Learning   : Deepening backend development with a focus on scalable systems
 
 </td>
 
-<td width="45%" align="center">
-
-<img https://www.freepik.com/free-photos-vectors/github-character width="220"/>
-
+<td align="center">
+  <img src="https://img.freepik.com/premium-vector/cartoon-character-with-laptop-green-screen_863867-3871.jpg?semt=ais_hybrid&w=740&q=80" width="220" />
 </td>
 </tr>
 </table>
