@@ -15,6 +15,10 @@ jobs:
 ## 💻 Terminal Profile
 
 ```javascript
+// ─────────────────────────────────────────────
+// 💻 Booting Pratik Raj System...
+// ─────────────────────────────────────────────
+
 const pratik = {
   terminal: "active 💻",
 
@@ -24,10 +28,10 @@ const pratik = {
   },
 
   boot_sequence: [
-    "Loading problem solving modules... 🧠",
-    "Initializing system design thinking... ⚙️",
-    "Applying clean code principles... ✨",
-    "System ready 🚀"
+    "⚡ Loading problem solving modules...",
+    "⚙️ Initializing system design...",
+    "✨ Applying clean code principles...",
+    "🚀 System ready"
   ],
 
   tech_stack: {
@@ -38,16 +42,23 @@ const pratik = {
   },
 
   current_focus: [
-    "Data Structures & Algorithms 🚀",
-    "Backend Engineering 🔧",
-    "Scalable Architecture 📈"
+    "🚀 Data Structures & Algorithms",
+    "🔧 Backend Engineering",
+    "📈 Scalable Architecture"
   ],
 
-  system_values: "Simplicity • Performance • Scalability",
+  system_values: ["Simplicity", "Performance", "Scalability"],
 
-  easter_egg: () => "Debugging powered by coffee ☕"
+  status: "Building. Learning. Improving. 🔥",
+
+  easter_egg: () => "☕ Coffee → Code → Repeat"
 };
+
+// ─────────────────────────────────────────────
+// ✅ System initialized successfully
+// ─────────────────────────────────────────────
 ```
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pratik8445/Pratik8445/output/github-contribution-grid-snake.svg" />
 </p>
