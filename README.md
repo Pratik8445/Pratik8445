@@ -1,37 +1,17 @@
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-## 💻 Terminal Profile
-
-```javascript
-// ─────────────────────────────────────────────
-// 💻 Booting Pratik Raj System...
-// ─────────────────────────────────────────────
 
 const pratik = {
-  terminal: "active 💻",
+  Hi I'm Pratik
 
   identity: {
     name: "Pratik Raj",
-    role: "Software Engineer 👨‍💻"
+    role: "Full Stack Web Developer"
   },
 
   boot_sequence: [
-    "⚡ Loading problem solving modules...",
-    "⚙️ Initializing system design...",
-    "✨ Applying clean code principles...",
-    "🚀 System ready"
+    " Loading problem solving modules...",
+    " Initializing system design...",
+    " Applying clean code principles...",
+    " System ready"
   ],
 
   tech_stack: {
@@ -42,20 +22,20 @@ const pratik = {
   },
 
   current_focus: [
-    "🚀 Data Structures & Algorithms",
-    "🔧 Backend Engineering",
-    "📈 Scalable Architecture"
+    "Data Structures & Algorithms",
+    " Backend Engineering",
+    " Scalable Architecture"
   ],
 
   system_values: ["Simplicity", "Performance", "Scalability"],
 
-  status: "Building. Learning. Improving. 🔥",
+  status: "Building. Learning. Improving ",
 
   easter_egg: () => "☕ Coffee → Code → Repeat"
 };
 
 // ─────────────────────────────────────────────
-// ✅ System initialized successfully
+                WELCOME
 // ─────────────────────────────────────────────
 ```
 
