@@ -12,6 +12,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pratik8445/Pratik8445/output/github-contribution-grid-snake.svg" />
+</p>
+
     steps:
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
