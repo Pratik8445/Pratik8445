@@ -83,6 +83,27 @@ Learning   : Deepening backend development with a focus on scalable systems
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pratik8445&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratik8445&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratik8445&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratik8445&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+---
+
+## 🔥 Streak & Contributions
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Pratik8445&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/Pratik8445/Pratik8445/output/github-contribution-grid-snake.svg" />
