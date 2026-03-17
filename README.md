@@ -32,7 +32,7 @@ Learning   : Deepening backend development with a focus on scalable systems
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pratik8445/Pratik8445/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Pratik8445/Pratik8445/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
     steps:
