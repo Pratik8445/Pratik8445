@@ -12,7 +12,42 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+## 💻 Terminal Profile
 
+```javascript
+const pratik = {
+  terminal: "active 💻",
+
+  identity: {
+    name: "Pratik Raj",
+    role: "Software Engineer 👨‍💻"
+  },
+
+  boot_sequence: [
+    "Loading problem solving modules... 🧠",
+    "Initializing system design thinking... ⚙️",
+    "Applying clean code principles... ✨",
+    "System ready 🚀"
+  ],
+
+  tech_stack: {
+    languages: ["Java", "JavaScript", "SQL"],
+    frontend: ["HTML", "CSS", "React"],
+    backend: ["Node.js", "Express"],
+    database: ["SQLite", "MongoDB"]
+  },
+
+  current_focus: [
+    "Data Structures & Algorithms 🚀",
+    "Backend Engineering 🔧",
+    "Scalable Architecture 📈"
+  ],
+
+  system_values: "Simplicity • Performance • Scalability",
+
+  easter_egg: () => "Debugging powered by coffee ☕"
+};
+```
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pratik8445/Pratik8445/output/github-contribution-grid-snake.svg" />
 </p>
