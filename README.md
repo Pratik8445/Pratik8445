@@ -24,7 +24,7 @@ Learning   : Deepening backend development with a focus on scalable systems
 
 <td width="45%" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="220"/>
+<img [src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="220"/>
 
 </td>
 </tr>
