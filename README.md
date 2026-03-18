@@ -92,7 +92,7 @@ Learning   : Deepening backend development with a focus on scalable systems
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratik8445&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratik8445&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratik8445&theme=tokyonight" />
 </p>
 
 ---
